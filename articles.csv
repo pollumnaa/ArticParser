@@ -1,19 +1,1 @@
-Номер статьи;Название статьи
-№ 1;Statistics classes don’t teach you about money
-№ 2;How The New York Times Uses Machine Learning To Make Its Paywall Smarter
-№ 3;Coping with Copilot
-№ 4;5 Pandas Group By Tricks You Should Know in Python
-№ 5;Practical guide for choosing an appropriate strategy for transfer learning in NLP
-№ 6;End-to-End Machine Learning with High Performance and Cloud Computing Tutorial at IGARSS 2022
-№ 7;Infusing Ethics in AI: Causes, Effects, and Mitigation
-№ 8;Using generative AI for image manipulation: discrete absorbing diffusion models explained
-№ 9;Content Quality
-№ 10;Table manners for the Data Scientists
-№ 11;198K
-№ 12;76K
-№ 13;Related Topics
-№ 14;Top Writers
-№ 15;Frank Andrade
-№ 16;Giorgos Myrianthous
-№ 17;Jim Clyde Monge
-№ 18;B. Chen
+Название статьи,Ссылка на статьюСоздаём своё объектное хранилище за чаc,http://habr.com/ru/company/vk/blog/681800/Как запускать поды как сервисы systemd в Podman,http://habr.com/ru/company/vk/blog/674832/Глубокое погружение в Data Quality,http://habr.com/ru/company/vk/blog/674876/Как настроить хранение логов кластера Kubernetes в бакете S3 и зачем это нужно,http://habr.com/ru/company/vk/blog/677860/Как студенты образовательных программ VK разрабатывали свои проекты,http://habr.com/ru/company/vk/blog/678908/Разложить по полочкам: как мы научили Облако сортировать фотографии по лицам,http://habr.com/ru/company/vk/blog/678770/Data Quality: новые правила,http://habr.com/ru/company/vk/blog/674830/Голосовые приложения для Маруси: идеи и разработки слушателей Академии больших данных MADE в VK,http://habr.com/ru/company/vk/blog/677696/"Сказ о том, как мы Tarantool Kubernetes Operator писали",http://habr.com/ru/company/vk/blog/676972/IT-забег по стране и винегрет из технологий: как прошёл «Вездекод» и что советуют участники,http://habr.com/ru/company/vk/blog/676694/В чем проблема с базами данных «ключ-значение» и как ее решают Wide-column-хранилища,http://habr.com/ru/company/vk/blog/675556/Raft (не)всемогущий: какие надстройки повышают надёжность алгоритма,http://habr.com/ru/company/vk/blog/675596/Ищем кротовые норы с помощью big data,http://habr.com/ru/article/669062/Архитектура реальной системы машинного обучения,http://habr.com/ru/company/vk/blog/673782/Как сократить расходы в четыре раза при работе с сырыми данными в Google BigQuery,http://habr.com/ru/company/vk/blog/675614/Применение инструментов IaC в облаке,http://habr.com/ru/company/vk/blog/674842/От кнопки «Создать приложение» до публикации в каталоге — глазами разработчика,http://habr.com/ru/company/vk/blog/674572/"Контекстные многорукие бандиты для рекомендации контента, или Не Бернулли единым",http://habr.com/ru/company/vk/blog/673914/Что я узнал на конференции DataOps Unleashed 2022,http://habr.com/ru/company/vk/blog/673320/Куда исчезают секреты Kubernetes,http://habr.com/ru/company/vk/blog/672796/
